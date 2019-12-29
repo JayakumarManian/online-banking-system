@@ -150,7 +150,7 @@
 
         <div class="flex-container">
             <div class="container">
-                <a href="/customer_home.php" class="button">Home</a>
+                <a href="/net-banking/customer_home.php" class="button">Home</a>
             </div>
             <div class="container">
                 <button type="submit">Update</button>
