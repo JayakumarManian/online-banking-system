@@ -156,7 +156,7 @@
                 <button type="submit">Update</button>
             </div>
             <div class="container">
-                <a href="/pass_change.php" class="password-button">Change Password/PIN</a>
+                <a href="/net-banking/pass_change.php" class="password-button">Change Password/PIN</a>
             </div>
         </div>
 

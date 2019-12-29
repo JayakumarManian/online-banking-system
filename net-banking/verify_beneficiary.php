@@ -11,7 +11,7 @@
 
     if (isset($_SESSION['auto_delete_benef'])) {
         if ($_SESSION['auto_delete_benef'] === true) {
-            header("location:/auto_delete_beneficiary.php");
+            header("location:/net-banking/auto_delete_beneficiary.php");
         }
     }
 
@@ -32,7 +32,7 @@
 
             $result1 = $conn->query($sql1);
             if ($result1->num_rows <= 0) {
-                header("location:/delete_beneficiary.php?cust_id=".$row["benef_cust_id"]."&redirect=true");
+                header("location:/net-banking/delete_beneficiary.php?cust_id=".$row["benef_cust_id"]."&redirect=true");
             }
         }
     }

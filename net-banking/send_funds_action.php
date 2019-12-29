@@ -107,7 +107,7 @@
         </div>
 
         <div class="flex-item">
-            <a href="/beneficiary.php" class="button">Go Back</a>
+            <a href="/net-banking/beneficiary.php" class="button">Go Back</a>
         </div>
     </div>
 

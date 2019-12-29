@@ -9,9 +9,9 @@
 <body>
     <div class="nav-wrapper">
     <div class="topnav" id="theTopNav">
-        <a href="/home.php">HOME</a>
-        <a href="/news.php">NEWS</a>
-        <a href="/contact.php">CONTACT</a>
+        <a href="/net-banking/home.php">HOME</a>
+        <a href="/net-banking/news.php">NEWS</a>
+        <a href="/net-banking/contact.php">CONTACT</a>
         <a href="#about">ABOUT US</a>
         <a href="javascript:void(0);" class="icon" onclick="respFunc()">&#9776;</a>
     </div>

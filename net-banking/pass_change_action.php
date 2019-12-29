@@ -94,7 +94,7 @@
         </div>
 
         <div class="flex-item">
-            <a href="/customer_profile.php" class="button">Go Back</a>
+            <a href="/net-banking/customer_profile.php" class="button">Go Back</a>
         </div>
     </div>
 
